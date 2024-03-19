@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hulya Azizova </h1>
 <h3 align="center">Frontend developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samiraliyev&label=Profile%20views&color=0e75b6&style=flat" alt="samiraliyev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hulya0297&label=Profile%20views&color=0e75b6&style=flat" alt="samiraliyev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=samiraliyev" alt="samiraliyev" /></a> </p>
 
