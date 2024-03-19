@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hulya0297" alt="hulyazizova" /></a> </p>
 
-- 💬 Ask me about **html5, css/scss, js,react,php, codelgniter, typejs,Bootstrap3/4, Rest, **
+- 💬 Ask me about **html5, css/scss, js,react,php, codelgniter, typescript,Bootstrap3/4,  **
 
 - 📫 How to reach me **azizovahulya12@gmail.com**
 
